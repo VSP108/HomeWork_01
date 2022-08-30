@@ -7,9 +7,9 @@ LICENCE : [MIT](./license.md)
 ---
 
 Содержание:
-1. [Что такое Git](whatisgit)
-2. [Основные операции](operation)
-3. [История проекта](history)
+1. [Что такое Git](whatisgit.md)
+2. [Основные операции](operation.md)
+3. [История проекта](history.md)
 4. [Типы файлов](types.md)
 5. [Игнорируемые файлы](gitignore.md)
 6. [Ветвление](branching.md)
